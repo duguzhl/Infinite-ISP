@@ -1,6 +1,6 @@
 """
 File: joint_bf.py
-Description: Noise reduction in bayer domain uding joint bilateral filter
+Description: Noise reduction in bayer domain using joint bilateral filter
 Code / Paper  Reference:
 https://www.researchgate.net/publication/261753644_Green_Channel_Guiding_Denoising_on_Bayer_Image
 Author: 10xEngineers
